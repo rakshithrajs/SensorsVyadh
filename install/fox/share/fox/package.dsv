@@ -1,0 +1,8 @@
+source;share/fox/hook/cmake_prefix_path.ps1
+source;share/fox/hook/cmake_prefix_path.dsv
+source;share/fox/hook/cmake_prefix_path.sh
+source;share/fox/local_setup.bash
+source;share/fox/local_setup.dsv
+source;share/fox/local_setup.ps1
+source;share/fox/local_setup.sh
+source;share/fox/local_setup.zsh

@@ -1,0 +1,16 @@
+/home/rakshith/ros2_ws/install/fox/share/fox//launch/l.launch.py
+/home/rakshith/ros2_ws/install/fox/share/ament_index/resource_index/package_run_dependencies/fox
+/home/rakshith/ros2_ws/install/fox/share/ament_index/resource_index/parent_prefix_path/fox
+/home/rakshith/ros2_ws/install/fox/share/fox/environment/ament_prefix_path.sh
+/home/rakshith/ros2_ws/install/fox/share/fox/environment/ament_prefix_path.dsv
+/home/rakshith/ros2_ws/install/fox/share/fox/environment/path.sh
+/home/rakshith/ros2_ws/install/fox/share/fox/environment/path.dsv
+/home/rakshith/ros2_ws/install/fox/share/fox/local_setup.bash
+/home/rakshith/ros2_ws/install/fox/share/fox/local_setup.sh
+/home/rakshith/ros2_ws/install/fox/share/fox/local_setup.zsh
+/home/rakshith/ros2_ws/install/fox/share/fox/local_setup.dsv
+/home/rakshith/ros2_ws/install/fox/share/fox/package.dsv
+/home/rakshith/ros2_ws/install/fox/share/ament_index/resource_index/packages/fox
+/home/rakshith/ros2_ws/install/fox/share/fox/cmake/foxConfig.cmake
+/home/rakshith/ros2_ws/install/fox/share/fox/cmake/foxConfig-version.cmake
+/home/rakshith/ros2_ws/install/fox/share/fox/package.xml

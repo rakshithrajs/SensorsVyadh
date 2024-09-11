@@ -1,0 +1,6 @@
+[console_scripts]
+butt = my_robot_controller.butt:main
+draw = my_robot_controller.draw_circle:main
+serial = my_robot_controller.h:main
+test_node = my_robot_controller.my_first_node:main
+

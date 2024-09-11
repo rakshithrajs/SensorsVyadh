@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/rakshith/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/rakshith/action_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/rakshith/action_ws/install/bot_ctrl_interface/local/lib/python3.10/dist-packages",
+        "/home/rakshith/action_ws/install/bot_ctrl/lib/python3.10/site-packages",
+        "/home/rakshith/action_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/rakshith/ros_task/install/hello/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rakshith/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/rakshith/action_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/rakshith/action_ws/install/bot_ctrl_interface/local/lib/python3.10/dist-packages",
+        "/home/rakshith/action_ws/install/bot_ctrl/lib/python3.10/site-packages",
+        "/home/rakshith/action_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/rakshith/ros_task/install/hello/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

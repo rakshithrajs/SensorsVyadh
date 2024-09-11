@@ -1,0 +1,4 @@
+source;share/fox/local_setup.bash
+source;share/fox/local_setup.dsv
+source;share/fox/local_setup.sh
+source;share/fox/local_setup.zsh
